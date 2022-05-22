@@ -11,7 +11,7 @@
 
 ```
 - Tensors and Datasets
-- Linear Regression / Gradient and Stochastic Descent
+- Linear Regression / Gradient Descent
 ```
 <br/>
 
