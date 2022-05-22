@@ -11,13 +11,14 @@
 
 ```
 - Tensors and Datasets
+- Linear Regression / Gradient and Stochastic Descent
 ```
 <br/>
 
 *☕ Coming Soon*
 
 ```
-- Linear/Logistic Regression
+- Logistic Regression
 - Softmax
 - Shallow and Deep Neural Networks
 - Convolutional Neural Networks
