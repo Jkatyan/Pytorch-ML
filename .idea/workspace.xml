@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="055d457a-a77c-4ab9-97f8-16ef9d352de8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week2_Linear_Regression/Lab_Linear_Regression_Training.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2_Linear_Regression/Lab_Linear_Regression_2D_Training.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2_Linear_Regression/Lab_Linear_Regression_Training.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week2_Linear_Regression/Lab_Linear_Regression_1D_Training.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
       <recent name="C:\Users\jayka\Documents\Python\Pytorch-ML\Week1_Tensors\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab_Linear_Regression_Training">
+  <component name="RunManager" selected="Python.Lab_Linear_Regression_2D_Training">
     <configuration name="Lab_Image_Dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pytorch-ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_Linear_Regression_Training" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_Linear_Regression_1D_Training" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pytorch-ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +108,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week2_Linear_Regression/Lab_Linear_Regression_Training.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\jayka\Documents\Python\Pytorch-ML\Week2_Linear_Regression\Lab_Linear_Regression_1D_Training.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab_Linear_Regression_2D_Training" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytorch-ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week2_Linear_Regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week2_Linear_Regression/Lab_Linear_Regression_2D_Training.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,34 +159,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_Simple_Dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pytorch-ML" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week1_Tensors" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week1_Tensors/Lab_Simple_Dataset.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab_Linear_Regression_Training" />
+        <item itemvalue="Python.Lab_Linear_Regression_2D_Training" />
+        <item itemvalue="Python.Lab_Linear_Regression_1D_Training" />
         <item itemvalue="Python.Lab_Linear_Regression_1D_Prediction" />
         <item itemvalue="Python.Lab_Prebuilt_Dataset" />
         <item itemvalue="Python.Lab_Image_Dataset" />
-        <item itemvalue="Python.Lab_Simple_Dataset" />
       </list>
     </recent_temporary>
   </component>
